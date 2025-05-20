@@ -1,4 +1,4 @@
-# validate_id_card_full
+# validate_id_card_full.py
 # 身份证号校验工具
 
 本项目为一个基于 Python 的中国身份证号码校验工具，支持图形化界面（Tkinter），可对18位身份证号码进行合法性校验，包括区划代码、出生日期和校验码等。
